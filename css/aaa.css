@@ -1,0 +1,26 @@
+.hoverA:hover {
+  transition: 0.5s;
+  color: rgb(255, 208, 0);
+}
+
+.grid-item {
+  width: 33.3333% !important;
+}
+
+.portfolio-item {
+  border-radius: 20px;
+}
+
+.btn-secondary {
+  background-color: #f6e05e;
+  border-color: #f6e05e;
+}
+
+.img11 {
+  width: 200px;
+  border-radius: 100px;
+}
+
+figcaption {
+  pointer-events: none
+}
