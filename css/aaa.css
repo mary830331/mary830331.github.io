@@ -21,6 +21,10 @@
   border-radius: 100px;
   text-align: center;
 }
+.modal-backdrop {
+height: 0 !important;
+background-color: none !important; 
+}
 
 figcaption {
   pointer-events: none
